@@ -232,5 +232,21 @@
                 }
             }
         }
+    ],
+    "users":[
+        {
+            "id": 1,
+            "name": "Whitney Stevenson",
+            "email": "whitney@gmail.com",
+            "password": "12345",
+            "image": "https://banner2.cleanpng.com/20190227/zox/kisspng-clip-art-computer-icons-openclipart-user-vector-gr-my-svg-png-icon-free-download-14-352-onlinewe-5c7704f7cff2b1.3948772115513039278518.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Alejandro Serna",
+            "email": "alejo@gmail.com",
+            "password": "12345",
+            "image": "https://banner2.cleanpng.com/20190227/zox/kisspng-clip-art-computer-icons-openclipart-user-vector-gr-my-svg-png-icon-free-download-14-352-onlinewe-5c7704f7cff2b1.3948772115513039278518.jpg"
+        }
     ]
 }
